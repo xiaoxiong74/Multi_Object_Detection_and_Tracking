@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://root@192.168.109.232:22/root/anaconda3/envs/rasa/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://root@192.168.109.232:22/root/anaconda3/envs/rasa/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pywork/kf7899/cv/Multi_Object_Detection_and_Tracking" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

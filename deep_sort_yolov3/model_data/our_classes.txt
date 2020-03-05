@@ -1,0 +1,8 @@
+beer_package
+beef
+sauce
+paper_toilet_bag
+paper_extract_box
+yoghurt
+detergent
+water_package

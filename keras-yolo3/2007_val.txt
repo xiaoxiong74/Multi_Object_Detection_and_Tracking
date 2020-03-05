@@ -1,0 +1,24 @@
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/37.jpg 439,5,1068,845,3
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1161.jpg 1010,456,1306,677,6
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/662.jpg 768,571,980,775,2 957,526,1229,820,2
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1336.jpg 1116,497,1320,660,2
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1152.jpg 987,508,1224,790,6
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/575.jpg 672,427,1083,771,1
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/478.jpg 450,664,1120,1080,0
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/35.jpg 419,5,1030,822,3
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1085.jpg 746,335,1178,1074,3
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/579.jpg 646,357,979,775,1
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1422.jpg 658,291,1097,737,7
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/515.jpg 441,644,1120,1080,0
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1401.jpg 612,401,1087,732,7
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1424.jpg 658,296,1135,734,7
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/558.jpg 657,322,1075,788,1
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1129.jpg 909,364,1246,857,5 694,382,928,720,4
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1331.jpg 1110,299,1225,417,2
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1429.jpg 658,293,1151,732,7
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/550.jpg 584,328,1068,785,1
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1127.jpg 892,342,1242,849,5 688,374,917,724,4
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1431.jpg 648,286,1151,752,7
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/43.jpg 440,1,1079,860,3
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/1301.jpg 810,581,989,724,2
+/home/pywork/kf7899/cv/keras-yolo3-train/VOCdevkit/VOC2007/JPEGImages/566.jpg 653,342,1079,767,1
